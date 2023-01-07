@@ -15,7 +15,7 @@ objeto = {
 
 /*Principios
 Abstração - Entender o contexto de cada objeto e abstrair o que de fato importa
-Encapsulamento -  
+Encapsulamento - Atributos privados
 Herança(prototype) -
 Polimorfismo - 
  */
