@@ -36,3 +36,4 @@ aprovados = ['Bia', 'Carlos', 'Ana'];
 //splice('A partir de qual indice eu quero trabalhar', 'quantos eu quero deletar', 'quantos eu quero adicionar')
 aprovados.splice(0, 1, 'Meu pau de asa');
 console.log(aprovados)
+
